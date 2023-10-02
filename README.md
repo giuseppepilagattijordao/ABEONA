@@ -1,2 +1,2 @@
 # ABEONA
-Datasets for ABEONA APP
+Privacy Policy for ABEONA - Modern Travellers APP
